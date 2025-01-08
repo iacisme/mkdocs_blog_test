@@ -1,3 +1,9 @@
 # MkDocs & Extensions
 mkdocs
 mkdocs-material
+
+# Python Image Library (PIL)
+pillow
+
+# SVG to PDF converter
+cairosvg
